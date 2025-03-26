@@ -37,7 +37,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 显示标题
-st.title("📊 销售与付款分析仪表板")
+st.title("📊 乐山鑫玺矿业有限公司销售分析")
 
 # 销售数据加载函数
 @st.cache_data
