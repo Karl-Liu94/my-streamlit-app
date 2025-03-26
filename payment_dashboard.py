@@ -8,7 +8,7 @@ import numpy as np
 
 # 设置页面标题和配置
 st.set_page_config(
-    page_title="销售与付款分析仪表板",
+    page_title="乐山鑫玺矿业有限公司销售分析",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
